@@ -1,9 +1,7 @@
-package application;
+package model.entities;
 
 import java.io.Serializable;
 import java.util.Date;
-
-import model.entities.Department;
 
 public class Seller implements Serializable{
 
